@@ -5,7 +5,7 @@ var Game = require('./game')
 var g = new Game()
 
 
-g.addNode('direction', 'Welcome. Do you choose to go left, or right?')
+g.addNode('direction', 'Welcome, NAME. Do you choose to go left, or right?')
 
 g.addNode('leftResp', 'Ah, good choice. Good choice. Now what color is the best?')
 
